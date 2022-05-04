@@ -1,0 +1,87 @@
+.card{
+    margin:10px;
+}
+
+.card-body{
+    height: 580px;
+}
+
+/*card1*/
+.logo{
+    padding: 1rem;
+    width: 120px;
+    height: 48px;
+    margin-bottom:30px;
+    margin-right: 40px;
+}
+
+.texto>textarea{
+    font-family: monospace;
+    color: #0A3871;
+    resize: vertical;
+    min-height: 60px;
+    max-height: 300px;
+}
+
+.card-title{
+    text-align: center;
+    font-family: monospace;
+    margin-top: 1rem;
+    color: #0A3871;
+}
+
+.alerta{
+    font-family: monospace;
+    color: #710a46;
+}
+
+.botones{
+    font-family: monospace;
+    padding: 1rem; 
+    text-align: center;
+}
+
+/*card2*/
+.imagen{
+    width: 70%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.imagen>img{
+    width: 100%;
+    height: auto;
+}
+
+.aviso11{
+    font-family: monospace;
+    text-align: center;
+    color: #0A3871;
+}
+
+.aviso22{
+    font-family: monospace;
+    text-align: center;
+    color: #710a46;
+}
+
+.texto2>textarea{
+    font-family: monospace;
+    color: #0A3871;
+    resize: vertical;
+    min-height: 60px;
+    max-height: 300px; 
+}
+
+.botones2{
+    font-family: monospace; 
+    padding: 1rem;
+    text-align: center;
+}
+
+footer{
+    font-family: monospace;
+    text-align: center;
+    color: #0A3871;
+}
